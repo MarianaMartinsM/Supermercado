@@ -1,2 +1,2 @@
 # Supermercado
-Simulação de supermercado em Python
+Simulação de compras em Python
